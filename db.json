@@ -1,0 +1,355 @@
+ {
+    "nadsat_words": [
+        {"id": 0,
+        "nadsat": "appy polly loggies",
+        "english": "apologies",
+        "origin": "Highly exaggerated pronunciation of apologies – Burgess's homage to James Joyce's ALP"
+        },
+        {"id": 1,
+        "nadsat": "auto",
+        "english": "car",
+        "origin": "Short for automobile; mirrors the usage in Russian: see авто (avto)"
+        },
+        {"id": 2,
+        "nadsat": "baboochka",
+        "english": "old woman",
+        "origin": "babuška; literally grandmother"
+        },
+        {"id": 3,
+        "nadsat": "baddiwad",
+        "english": "bad",
+        "origin": "Young child talk"
+        },
+        {"id": 4,
+        "nadsat": "banda",
+        "english": "band",
+        "origin": "Banda, 'gang"
+        },
+        {"id": 5,
+        "nadsat": "barry place",
+        "english": "prison",
+        "origin": "From bars on windows in prisons"
+        },
+        {"id": 6,
+        "nadsat": "bedways",
+        "english": "to bed",
+        "origin": ""
+        },
+        {"id": 7,
+            "nadsat": "bezoomny",
+            "english": "mad, crazy",
+            "origin": "безумный (bezumnyj)"
+        },
+        {"id": 8,
+        "nadsat": "biblio",
+        "english": "libray",
+        "origin": "библиотека (biblioteka)"
+        },
+        {"id": 9,
+        "nadsat": "bitva",
+        "english": "battle",
+        "origin": "битва (bitva)"
+        },
+        {"id": 10,
+        "nadsat": "blub",
+        "english": "weep, cry",
+        "origin": "English slang. Not exclusively Nadsat"
+        },
+        {"id": 11,
+        "nadsat": "Bog",
+        "english": "God",
+        "origin": "бог pronounced bog"
+        },
+        {"id": 12,
+        "nadsat": "bogman",
+        "english": "godman",
+        "origin": ""
+        },
+        {"id": 13,
+        "nadsat": "boomaboom",
+        "english": "thunder",
+        "origin": "Onomatopoeia"
+        },
+        {"id": 14,
+        "nadsat": "bolnoy",
+        "english": "sick",
+        "origin": "больной (bolʹnoj)"
+        },
+        {"id": 15,
+        "nadsat": "bolshy",
+        "english": "big, great",
+        "origin": "большой (bolʹšoj), bolshie"
+        },
+        {"id": 16,
+        "nadsat": "boohoo, boohoohoo",
+        "english": "to cry",
+        "origin": "From the sound that one makes while crying. Not exclusively Nadsat."
+        },
+        {"id": 17,
+        "nadsat": "boorjoyce",
+        "english": "bourgeois",
+        "origin": "Burgess' pronunciation of bourgeois"
+        },
+        {"id": 18,
+        "nadsat": "bootick",
+        "english": "boutique",
+        "origin": ""
+        },
+        {"id": 19,
+        "nadsat": "brat, bratty",
+        "english": "brother",
+        "origin": "брат (brat)"
+        },
+        {"id": 20,
+        "nadsat": "bratchny",
+        "english": "bastard",
+        "origin": "брачный (bračnyj, 'matrimonial'), — likely a shortened внебрачный (vnebračnyj; out-of-wedlock), even though stripping it of the prefix inverts the meaning"
+        },
+        {"id": 21,
+        "nadsat": "britva",
+        "english": "razor",
+        "origin": "бритва (britva)"
+        },
+        {"id": 22,
+        "nadsat": "brooko",
+        "english": "belly",
+        "origin": "брюхо (brjuxo)"
+        },
+        {"id": 23,
+        "nadsat": "brosay, brosat",
+        "english": "to throw",
+        "origin": "бросай (brosaj, 'throw!', imperative), бросать (brosat, 'to throw')"
+        },
+        {"id": 24,
+        "nadsat": "bruiseboys",
+        "english": "police officers, security guards",
+        "origin": ""
+        },
+        {"id": 25,
+        "nadsat": "bugatties",
+        "english": "riches",
+        "origin": "богатый (bogatyj)"
+        },
+        {"id": 26,
+        "nadsat": "bugatty",
+        "english": "rich",
+        "origin": "богатый (bogatyj)"
+        },
+        {"id": 27,
+        "nadsat": "cables",
+        "english": "blood vessels, tendons",
+        "origin": ""
+        },
+        {"id": 28,
+        "nadsat": "cal",
+        "english": "crap",
+        "origin": "кал (kal, “feces”), sometimes used as an invective as well"
+        },
+        {"id": 28,
+        "nadsat": "cancer",
+        "english": "cigarette",
+        "origin": "Short for English slang cancer stick from the disease with which heavy smoking is most commonly associated"
+        },
+        {"id": 30,
+        "nadsat": "cantora",
+        "english": "office",
+        "origin": "контора (kontora)"
+        },
+        {"id": 31,
+        "nadsat": "carman",
+        "english": "pocket",
+        "origin": "карман (karman)"
+        },
+        {"id": 32,
+        "nadsat": "chai",
+        "english": "tea",
+        "origin": ""
+        },
+        {"id": 33,
+        "nadsat": "charles, charlie",
+        "english": "chaplain",
+        "origin": "A play on Charlie Chaplin"
+        },
+        {"id": 34,
+        "nadsat": "chasha",
+        "english": "cup",
+        "origin": "чашка (čaška); чаша (čaša, “large bowl”)"
+        },
+        {"id": 35,
+        "nadsat": "chasso",
+        "english": "guard",
+        "origin": "часовой (časovoj)"
+        },
+        {"id": 36,
+        "nadsat": "cheena",
+        "english": "woman",
+        "origin": "женщина (ženščina)"
+        },
+        {"id": 37,
+        "nadsat": "cheest",
+        "english": "to wash",
+        "origin": "чистить (čistitʹ, 'to clean')"
+        },
+        {"id": 38,
+        "nadsat": "chelloveck",
+        "english": "person, man, fellow",
+        "origin": "человек (čelovek, person, man)"
+        },
+        {"id": 39,
+        "nadsat": "chepooka",
+        "english": "nonsense",
+        "origin": "чепуха (čepuxa)"
+        },
+        {"id": 40,
+        "nadsat": "choodessny",
+        "english": "wonderful",
+        "origin": "чудесный (čudesnyj)"
+        },
+        {"id": 41,
+        "nadsat": "chumble",
+        "english": "to mumble",
+        "origin": "Portmanteau 'chatter' and 'mumble'"
+        },
+        {"id": 42,
+        "nadsat": "cine",
+        "english": "cinema",
+        "origin": "French slang ciné, Russian кино (kino)"
+        },
+        {"id": 43,
+        "nadsat": "clockwork",
+        "english": "mechanically responsive",
+        "origin": ""
+        },
+        {"id": 45,
+        "nadsat": "clop",
+        "english": "to knock",
+        "origin": "хлопать (xlopat, 'clap'); German klopfen (to knock)"
+        },
+        {"id": 46,
+        "nadsat": "cluve",
+        "english": "beak",
+        "origin": "клюв (kljuv)"
+        },
+        {"id": 47,
+        "nadsat": "collocoll",
+        "english": "bell",
+        "origin": "колокол (kolokol)"
+        },
+        {"id": 48,
+        "nadsat": "crack",
+        "english": "to break up, smash",
+        "origin": ""
+        },
+        {"id": 49,
+        "nadsat": "crark",
+        "english": "to howl",
+        "origin": "Portmanteau 'crow' and 'bark'"
+        },
+        {"id": 50,
+        "nadsat": "crast",
+        "english": "steal, rob, robbery",
+        "origin": "красть (krastʹ, 'to steal'"
+        },
+        {"id": 51,
+        "nadsat": "creech",
+        "english": "to shout, scream",
+        "origin": "кричать (kričatʹ)"
+        },
+        {"id": 52,
+        "nadsat": "cutter",
+        "english": "money",
+        "origin": "From Cockney rhyming slang derived from bread-and-butter"
+        },
+        {"id": 53,
+        "nadsat": "dama",
+        "english": "lady",
+        "origin": "дама (dama); cf Dame"
+        },
+        {"id": 54,
+        "nadsat": "decrep",
+        "english": "elder",
+        "origin": "Short for decrepit"
+        },
+        {"id": 55,
+        "nadsat": "ded, dedoochka",
+        "english": "old man",
+        "origin": "дед (ded), дедушка (deduška, 'grandfather'), coll. 'old man'"
+        },
+        {"id": 56,
+        "nadsat": "deng",
+        "english": "money",
+        "origin": "деньги (denʹgi)"
+        },
+        {"id": 57,
+        "nadsat": "devotchka",
+        "english": "young woman",
+        "origin": "девочка (devočka, 'girl')"
+        },
+        {"id": 58,
+        "nadsat": "dobby",
+        "english": "good",
+        "origin": "добрый (dobryj, 'kind, good')"
+        },
+        {"id": 59,
+        "nadsat": "dook",
+        "english": "trace, ghost",
+        "origin": "дух (dux, literally 'spirit') Romani dook ('magic')"
+        },
+        {"id": 60,
+        "nadsat": "domy",
+        "english": "house",
+        "origin": "дом (dom)"
+        },
+        {"id": 61,
+        "nadsat": "dorogoy",
+        "english": "dear, valuable, expensive",
+        "origin": "дорогой (dorogoj)"
+        },
+        {"id": 62,
+        "nadsat": "dratsing",
+        "english": "fighting",
+        "origin": "драться (dratʹsja, 'to fight')"
+        },
+        {"id": 63,
+        "nadsat": "drencrom",
+        "english": "drug",
+        "origin": "Possibly 'Adrenochrome'"      
+        },
+        {"id": 64,
+        "nadsat": "droog",
+        "english": "friend",
+        "origin": "друг (drug, 'friend')"
+        },
+        {"id": 65,
+        "nadsat": "dung",
+        "english": "to defecate",
+        "origin": ""
+        },
+        {"id": 66,
+        "nadsat": "dva",
+        "english": "two",
+        "origin": "два (dva)"
+        },
+        {"id": 67,
+        "nadsat": "eegra",
+        "english": "game",
+        "origin": "игра (igra)"
+        },
+        {"id": 68,
+        "nadsat": "eemja",
+        "english": "name",
+        "origin": "имя (imja)"
+        },
+        {"id": 69,
+        "nadsat": "eggiweg",
+        "english": "egg",
+        "origin": "Juvenile mutation of 'egg'"
+        },
+        {"id": 70,
+        "nadsat": "em",
+        "english": "mother",
+        "origin": "Derived from the first letter of 'mother'"
+        }
+
+    ]
+}
